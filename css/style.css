@@ -2,8 +2,11 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #f2f2f2;
+    background-image: url("https://fitnessvolt.com/wp-content/uploads/2022/07/BMI-Charts-750x422.jpg");
     margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
   }
   
   h1 {
